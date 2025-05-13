@@ -18,6 +18,7 @@ document.addEventListener('click', function(e) {
       guardarCarrito();
       actualizarCarrito();
       actualizarContadorCarrito();
+      alert("Producto agregado al Carrito de Compras.");
     }
 });
 
